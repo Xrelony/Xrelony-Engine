@@ -17,3 +17,4 @@
   haxelib git linc_luajit https://github.com/nebulazorua/linc_luajit.git
   haxelib install actuate 
 ```
+# Send Issues If you can't setup
