@@ -16,9 +16,4 @@ Cause it's be easier with my lib
 It's “xrelony“
 ```
 
-# What is changed?
-With the new lib “xrelony“ will coming soon
-You can change all fnf without haxe
-The engine's main language is lua but can change.
-
 # Coming soon
